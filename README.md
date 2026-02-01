@@ -17,6 +17,7 @@ The application follows a standard **Client-Server** architecture:
 
 ## 2. Directory Structure & Organization
 
+```
 AudioFrequencyComparison/
 ├── backend/                # Web Server Layer (FastAPI)
 │   ├── main.py             # API entry point & route handling
@@ -38,6 +39,7 @@ AudioFrequencyComparison/
 ├── main.py                 # CLI entry point (optional usage)
 ├── requirements.txt        # Python dependency list
 └── README.md               # Project documentation
+```
 
 ## 3. Component Details
 
