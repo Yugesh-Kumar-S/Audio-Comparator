@@ -1,3 +1,7 @@
+<img width="500" height="1514" alt="image" src="https://github.com/user-attachments/assets/3dff838f-be00-4a79-a985-4453eeeca351" />
+<img width="500" height="1500" alt="image" src="https://github.com/user-attachments/assets/a69052f8-8216-4980-87d1-97bb7519028e" />
+
+
 # Project Overview & Architecture
 ## Audio Frequency Comparison Application
 
