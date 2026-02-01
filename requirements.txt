@@ -1,0 +1,24 @@
+# Audio Frequency Comparison and Voice Similarity Evaluation
+# Python Dependencies
+
+# Core audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Numerical and scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Similarity metrics
+fastdtw>=0.3.4
+
+# Progress display (optional)
+tqdm>=4.65.0
+
+# Backend
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
