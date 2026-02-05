@@ -22,7 +22,8 @@ const Home = () => {
         formData.append('file2', file2);
 
         try {
-            const response = await axios.post('/analyze', formData, {
+            const apiUrl = import.meta.env.VITE_API_URL || '';
+            const response = await axios.post(`${apiUrl}/analyze`, formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data',
                 },
